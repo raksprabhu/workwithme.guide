@@ -65,4 +65,11 @@
 [submodule "raksprabhu"]
 	path = raksprabhu
 	url = https://github.com/raksprabhu/workwithme.guide-myguide.git
+[submodule "johndewolf"]
+	path = johndewolf
+	url = https://github.com/johndewolf/workwithme.guide-myguide.git
+	branch = master
+[submodule "jschalz"]
+	path = jschalz
+	url = https://github.com/jschalz/workwithme.guide-myguide.git
 	branch = master
